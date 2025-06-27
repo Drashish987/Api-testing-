@@ -316,7 +316,7 @@ docker run --network keploy-network -p 3545:3545 book-api
 
 ## Assignment Requirements
 
-This project successfully meets all the Keploy Session-2 Task requirements:
+This project successfully meets all the Keploy Session-4 Task requirements:
 
  **Custom API with 4+ endpoints**: Complete CRUD operations for books
  **MongoDB Integration**: Full database integration with Mongoose
